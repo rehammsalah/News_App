@@ -1,0 +1,136 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Mary Ann Azevedo",
+      "title": "Burn, baby, burn. Real estate-focused fintech startups feel the heat",
+      "description": "Welcome to The Interchange! If you received this in your inbox, thank you for signing up and your vote of confidence. If you’re reading this as a post on our site, sign up here so you can receive it directly in the future. Every week, I’ll take a look at the …",
+      "url": "https://techcrunch.com/2022/08/28/burn-baby-burn-real-estate-focused-fintech-startups-feel-the-heat/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-460689215.jpg?w=600",
+      "publishedAt": "2022-08-28T14:16:56Z",
+      "content": "Welcome to The Interchange! If you received this in your inbox, thank you for signing up and your vote of confidence. If youre reading this as a post on our site, sign up here so you can receive it d… [+11822 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Jagmeet Singh",
+      "title": "India's Akasa Air exposed sensitive records of thousands of customers",
+      "description": "India's newly launched airline began operations just weeks ago.",
+      "url": "https://techcrunch.com/2022/08/28/india-akasa-air-sensitive-customer-data-records-exposed-glitch/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/08/akasa-air-image.jpg?w=686",
+      "publishedAt": "2022-08-28T12:21:26Z",
+      "content": "Akasa Air, India’s newly launched airline that began operations earlier this month, exposed the personal data of thousands of its customers because of a technical glitch that affected its login and s… [+3136 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Greg Kumparak",
+      "title": "Hackers access DoorDash data, T-Mobile teams up with SpaceX, and eBay buys TCGplayer",
+      "description": "We're back with another edition of Week in Review, the newsletter where we quickly break down the top stories to hit TC in the last seven days.",
+      "url": "https://techcrunch.com/2022/08/27/hackers-access-doordash-data-t-mobile-teams-up-with-spacex-and-ebay-buys-tcgplayer/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1232015093.jpg?w=600",
+      "publishedAt": "2022-08-27T20:16:38Z",
+      "content": "Hello, hello! We’re back with another edition of Week in Review, the newsletter where we quickly break down the top stories to hit TC in the last seven days. Want it in your inbox? Sign up here.\r\nOur… [+8172 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "This Week in Apps: Whistleblowing drama, Instagram's teen safety features, Twitter adds podcasts",
+      "description": "This Week in Apps offers a way to keep up with the latest from the world of apps, including news, updates, startup fundings, mergers/acquisitions, and more.",
+      "url": "https://techcrunch.com/2022/08/27/this-week-in-apps-whistleblowing-drama-instagrams-teen-safety-features-twitter-adds-podcasts/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/07/this-week-in-apps-splash-2022.webp?w=753",
+      "publishedAt": "2022-08-27T18:15:40Z",
+      "content": "Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy.\r\nGlobal app spending reached $65 billion in … [+22246 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Natasha Mascarenhas",
+      "title": "When the party has confetti but no allergen-friendly appetizers",
+      "description": "Welcome to Startups Weekly, a fresh human-first take on this week’s startup news and trends. To get this in your inbox, subscribe here. The bets are no longer just on Wall Street — they’re in your group chats, book clubs and that awkward shuffle that happens …",
+      "url": "https://techcrunch.com/2022/08/27/when-the-party-has-confetti-but-no-allergen-friendly-appetizers/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/06/startups-weekly-featured1.jpg?w=711",
+      "publishedAt": "2022-08-27T18:01:56Z",
+      "content": "Welcome to Startups Weekly, a fresh human-first take on this weeks startup news and trends. To get this in your inbox, subscribe here.\r\nThe bets are no longer just on Wall Street theyre in your group… [+6889 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Maggie Stamets",
+      "title": "Jay Chandrasekhar is using revenge to build a new review app",
+      "description": "Welcome back to Found, where we tell you the stories behind the startups. Super Troopers premiered at Sundance to a receptive, giggling crowd but if you judged it based on its Rotten Tomato score and reviews, you’d think it flopped. Writer, director, comedian…",
+      "url": "https://techcrunch.com/2022/08/27/jay-chandrasekhar-is-using-revenge-to-build-a-new-review-app/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/05/found-2022-featured.jpg?w=711",
+      "publishedAt": "2022-08-27T17:00:48Z",
+      "content": "Welcome back to Found, where we tell you the stories behind the startups.\r\nSuper Troopers premiered at Sundance to a receptive, giggling crowd but if you judged it based on its Rotten Tomato score an… [+606 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Anna Heim",
+      "title": "More venture funds are betting on Central and Eastern Europe",
+      "description": "Central and Eastern Europe have had less venture capital at their disposal than its GDP or population could warrant but this could be starting to change.",
+      "url": "https://techcrunch.com/2022/08/27/more-venture-funds-are-betting-on-central-and-eastern-europe/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/06/NSussman_Techcrunch_Exchange-multicolor.jpg?w=533",
+      "publishedAt": "2022-08-27T17:00:18Z",
+      "content": "Welcome to The TechCrunch Exchange, a weekly startups-and-markets newsletter. Its inspired by the daily TechCrunch+ column where it gets its name. Want it in your inbox every Saturday? Sign up here.\r… [+744 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Tim De Chant",
+      "title": "EV battery leases could be a boon for manufacturers, a bust for consumers",
+      "description": "Startup automaker VinFast is planning to lease its EVs' batteries, a trial that other manufacturers are undoubtedly watching closely.",
+      "url": "https://techcrunch.com/2022/08/27/ev-battery-leases-could-be-a-boon-for-manufacturers-a-bust-for-consumers/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/08/vinfast-vf9.jpg?w=600",
+      "publishedAt": "2022-08-27T16:00:44Z",
+      "content": "For years, observers have thought that consumers would be better off leasing EV batteries than buying them outright because the batteries are prone to degradation, because new technology will turn th… [+787 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Frederic Lardinois",
+      "title": "Drop's DCX keycaps give your old keyboard a new lease on life",
+      "description": "Drop's keycaps don't feel too smooth, and while they'll likely show some shine after a few years of use (all ABS keycaps do), there's obviously no sign of that yet.",
+      "url": "https://techcrunch.com/2022/08/27/drops-dcx-keycaps-give-your-old-keyboard-a-new-lease-on-life/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/08/DSC00342.jpg?w=600",
+      "publishedAt": "2022-08-27T16:00:04Z",
+      "content": "Most people don’t spend a lot of time thinking about the keycaps on their keyboards. Chances are, they are white with black text or black with white text and that’s about it. Like with all things (me… [+3950 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Devin Coldewey",
+      "title": "Randomly selected quotes from Zuck's very, very long interview",
+      "description": "Life is too short to listen to a 3-hour conversation between successful normal human Mark Zuckerberg and the farcically neutral Joe Rogan, so I’m taking a different tack: scrolling very fast through an extremely long transcript and picking nuggets more or les…",
+      "url": "https://techcrunch.com/2022/08/27/randomly-selected-quotes-from-zucks-very-very-long-interview/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/08/zuckerberg-selfie-horizon-vr.jpg?w=579",
+      "publishedAt": "2022-08-27T15:31:07Z",
+      "content": "Life is too short to listen to a 3-hour conversation between successful normal human Mark Zuckerberg and the farcically neutral Joe Rogan, so I’m taking a different tack: scrolling very fast through … [+9397 chars]"
+    }
+  ]
+}
